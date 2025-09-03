@@ -37,8 +37,8 @@ export function onApplePayButtonClicked() {
     requiredShippingContactFields: [
       "postalAddress",
       "email",
-      // "name",
       "phone",
+      // "name",
       // "phoneticName",
     ],
 
